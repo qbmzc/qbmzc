@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @qbmzc
-- 👀 I’m interested in play game
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in listen music
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 congco@foxmail.com
 
