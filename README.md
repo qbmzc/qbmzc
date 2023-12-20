@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qbmzc
 - 👀 I’m interested in listen music
 - 🌱 I’m currently learning Rust
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on It Takes Two
 - 📫 congco@foxmail.com
 
 <!---
